@@ -150,7 +150,3 @@ displaySection("about-me","about-me-section");
 displaySection("skills","skills-section");
 displaySection("projects","projects-section");
 displaySection("links","links-section");
-displaySection("links1","links-section");
-displaySection("links2","links-section");
-displaySection("links3","links-section");
-displaySection("links4","links-section");
